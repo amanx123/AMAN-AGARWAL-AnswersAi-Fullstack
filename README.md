@@ -14,7 +14,7 @@ This service uses Google Cloud Run for deployment and it's serverless architectu
 
 **API SPEC**
 
-[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/17333320-6841c45b-f2cc-4536-ac10-995e06a8142f?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D17333320-6841c45b-f2cc-4536-ac10-995e06a8142f%26entityType%3Dcollection%26workspaceId%3D3e905701-4ca8-48f5-b214-75f51d968f3a)
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/17333320-2b3f02f3-3c47-4df8-a031-a445c8995690?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D17333320-2b3f02f3-3c47-4df8-a031-a445c8995690%26entityType%3Dcollection%26workspaceId%3D3e905701-4ca8-48f5-b214-75f51d968f3a)
 
 AUTH URLs
 ```bash
